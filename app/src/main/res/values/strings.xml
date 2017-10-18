@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidHello</string>
+    <string name="name_hint">Please enter your name</string>
+    <string name="hello_button_label">Say Hello</string>
+    <string name="hi_button_label">Say Hi</string>
+    <string name="run_app">run_app</string>
+    <string name="about_app">about_app</string>
+</resources>
+
